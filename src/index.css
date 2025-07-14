@@ -19,6 +19,7 @@ main {
 .grid {
   display: grid;
   width: 70%;
+  max-width: 400px;
   aspect-ratio: 1 / 1;
   background-color: white;
 }
@@ -43,6 +44,7 @@ main {
   align-items: center;
   gap: 8px;
   width: 70%;
+  max-width: 400px;
   height: fit-content;
 }
 
